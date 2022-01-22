@@ -4,8 +4,8 @@
 
 ### Check out in this [link](https://hendridg.github.io/portfolio-microverse/)
 
-![screenshot](./images/screenshots/app-screenshot-1.png)
-![screenshot](./images/screenshots/app-screenshot-2.png)
+![screenshot](.public/images/images/screenshots/app-screenshot-1.png)
+![screenshot](./public/images/screenshots/app-screenshot-2.png)
 
 ## Built With
 
