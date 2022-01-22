@@ -2,7 +2,7 @@
 
 > Netflix clone, React Advance, scrimba course
 
-### Check out in this [link](https://hendridg.github.io/portfolio-microverse/)
+### Check out in this [link](https://netflix-clone-hendrid.herokuapp.com/)
 
 ![screenshot](./public/images/screenshots/app-screenshot-1.png)
 ![screenshot](./public/images/screenshots/app-screenshot-2.png)
